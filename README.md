@@ -79,7 +79,7 @@ The last row was selected to be deleted, and gives a confirmation before the req
 ### Quiz mode 
 ![image](https://github.com/AmaanK03/Vocabulary-Builder/assets/123104886/913b1a35-48a5-42d1-98a9-8f75a17e1e9e)
 
-This Photo shows that the Test feature working and displaying that question that was answered wrong...
+This Photo shows that the Test feature working and displaying that questions that was answered wrong...
 
 
 
