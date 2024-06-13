@@ -61,22 +61,27 @@ Throughout the development of this project, I gained valuable insights and impro
 
 ### Home page 
 ![image](https://github.com/AmaanK03/Vocabulary-Builder/assets/123104886/22e73ef0-d5cf-4e74-9059-7404206bde1d)
+
 This photo displays the back-end server and front-end server presenting data from the database within the Vue App.
 
 ### Add new word 
 ![image](https://github.com/AmaanK03/Vocabulary-Builder/assets/123104886/f5fd201f-6ca3-436f-9c0d-250b180019e0)
+
 This photo shows that new words were successfully added in German, English, and Urdu, and they are displayed on the word page
 
 ### Edit word
 ![image](https://github.com/AmaanK03/Vocabulary-Builder/assets/123104886/1b602fbb-3343-4292-bb86-0bc892f6a8fc)
+
 This photo shows the editing interface where users can modify words.
 
 ### Delete word
 ![image](https://github.com/AmaanK03/Vocabulary-Builder/assets/123104886/793cc59b-c0f8-4e94-9392-0e9d5d514ac6)
+
 The last row was selected to be deleted, and gives a confirmation before the request 
 
 ### Quiz mode 
 ![image](https://github.com/AmaanK03/Vocabulary-Builder/assets/123104886/913b1a35-48a5-42d1-98a9-8f75a17e1e9e)
+
 This Photo shows that the Test feature working and displaying that question that was answered wrong..
 
 
