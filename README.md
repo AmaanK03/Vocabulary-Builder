@@ -36,7 +36,7 @@ I began by setting up the project structure and configuring the server with Expr
 7. **Testing**: Conducted thorough testing to ensure smooth operation and bug fixes.
 
 ##  What I Learned 📚
-This project interduced me to the MEVN stack, a modern web development stacks that are bundles of software and frameworks used to completely develop a web application. This stacks contain a web server to host and run the application, a database to store and retrieve data for the application, and a scripting language to facilitate operations. Additionally, they incorporate frameworks designed to manage the front-end and back-end components more effectively
+This project introduced me to the MEVN stack, a modern web development stacks that are bundles of software and frameworks used to completely develop a web application. This stacks contain a web server to host and run the application, a database to store and retrieve data for the application, and a scripting language to facilitate operations. Additionally, they incorporate frameworks designed to manage the front-end and back-end components more effectively
 
 ### Backend Development
 - **Express.js**: Gained experience in setting up and managing a Node.js server using Express.js for hosting web applications.
