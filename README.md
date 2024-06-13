@@ -36,24 +36,21 @@ I began by setting up the project structure and configuring the server with Expr
 7. **Testing**: Conducted thorough testing to ensure smooth operation and bug fixes.
 
 ##  What I Learned 📚
-Throughout the development of this project, I gained valuable insights and improved my technical skills:
+This project interduced me to the MEVN stack, a modern web development stacks that are bundles of software and frameworks used to completely develop a web application. This stacks contain a web server to host and run the application, a database to store and retrieve data for the application, and a scripting language to facilitate operations. Additionally, they incorporate frameworks designed to manage the front-end and back-end components more effectively
 
 ### Backend Development
-- **Express.js**: Gained proficiency in setting up and managing a Node.js server with Express.js.
-- **MongoDB**: Enhanced my understanding of NoSQL databases and CRUD operations.
+- **Express.js**: Gained experience in setting up and managing a Node.js server using Express.js for hosting web applications.
+- **MongoDB**: Was also introduced to NoSQL databases, enhancing my understanding of their key differences from SQL databases.
 
 ### Frontend Development
-- **Vue.js**: Improved my skills in building reactive interfaces and managing state with Vuex.
-- **Responsive Design**: Learned best practices for designing responsive and user-friendly web applications.
+- **Vue.js**: Learned to develop Single Page Applications (SPAs), improving my skills in building reactive interfaces & web development.
 
 ### Full Stack Development
 - **Integration**: Improved my ability to integrate frontend and backend components to create a cohesive application.
-- **Testing**: Enhanced my skills in testing web applications to ensure reliability and performance.
 
 ##  How can it be improved? 💭
 - **Text-to-Speech**: Add a feature to play words out loud to improve accessibility.
 - **Additional Languages**: Expand the vocabulary to include more languages.
-- **User Authentication**: Add user authentication to personalize and secure the application.
 - **Advanced Quiz Features**: Implement more advanced quiz functionalities and scoring.
 
 ## How it looks 📷
@@ -82,7 +79,7 @@ The last row was selected to be deleted, and gives a confirmation before the req
 ### Quiz mode 
 ![image](https://github.com/AmaanK03/Vocabulary-Builder/assets/123104886/913b1a35-48a5-42d1-98a9-8f75a17e1e9e)
 
-This Photo shows that the Test feature working and displaying that question that was answered wrong..
+This Photo shows that the Test feature working and displaying that question that was answered wrong...
 
 
 
