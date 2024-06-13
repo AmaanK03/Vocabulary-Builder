@@ -40,7 +40,7 @@ This project introduced me to the MEVN stack, a modern web development stacks th
 
 ### Backend Development
 - **Express.js**: Gained experience in setting up and managing a Node.js server using Express.js for hosting web applications.
-- **MongoDB**: Was also introduced to NoSQL databases, enhancing my understanding of their key differences from SQL databases.
+- **MongoDB**: introduced to NoSQL databases, enhancing my understanding of their key differences from SQL databases.
 
 ### Frontend Development
 - **Vue.js**: Learned to develop Single Page Applications (SPAs), improving my skills in building reactive interfaces & web development.
